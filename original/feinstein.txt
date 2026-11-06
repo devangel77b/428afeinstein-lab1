@@ -1,0 +1,13 @@
+1. This is a review of Feinstein et al "Predicting Projectile Motion" submitted as a research article to J S&E. The manuscript describes testing shooting marbles at different angles in order to find the "most optimal one" that resulted in the highest distance traveled. The work requires major revisions and resubmission. It should have been bench rejected.
+
+2. The manuscript needs a descriptive title and the abstract should give more of the specific findings up front.
+
+3. Introduction: Equations need to be numbered. Highly specific details of methods should be saved for the methods section. The introduction does not provide several alternative hypotheses that are to be tested and presents some equations (no refs provided) as fact, when in actuality the work seems to be testing among several different models. None of this is described anywhere in the introduction.
+
+4. The methods and materials are improperly written as a set of recipe steps. The manuscript ought to be rejected due to this. Many irrelevant details are included (about what each person did) while key information about the source and specifications of important equipment are not given.
+
+5. The results are illegible and given in non-MKS units. It is not clear why the authors took averages first; and summary statistics regarding the fit of different models are not included. The graph of figure 1 is illegible and it is not explained what is "initial formula" "fixed formula" etc.
+
+6. Discussion never identifies what the "initial hypothesis" was that is correct. A new equation is given with no derivation and no source.
+
+7. No refernces are given. 
